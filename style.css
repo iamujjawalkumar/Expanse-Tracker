@@ -26,6 +26,10 @@ body {
     display: block;
     margin-bottom: 5px;
   }
+
+  #description,#amount {
+    width: 90%;
+  }
   
   input,
   select {
